@@ -1,0 +1,7 @@
+{
+  "name": "MissingItemFinder",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
